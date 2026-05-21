@@ -1,4 +1,4 @@
-import numpy as np
+"""import numpy as np
 import math 
 
 V = [2.5, 5, 7.5, 10, 12.5, 15, 17.5, 20, 22.5, 25]
@@ -63,4 +63,4 @@ def ga(N,crossOverP, mutationP ):
         
 
 def main():
-    ga(N, 0.7, 0.1)
+    ga(N, 0.7, 0.1)"""
